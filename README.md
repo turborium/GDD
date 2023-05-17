@@ -21,6 +21,7 @@ G-Code Driven Development
 - If the Сlass has only one method - it's garbage, use a regular function.
 - Use manual testing where you can do without Auto Tests.
 - ALWAYS manually test the View. Autotests will not find real problems and regressions here.
+- When a Cool Architecture Mentor comes to your old project, give him the INITIAL business requirements and ask him to sketch out the architecture. Buy a popcorn. Then show the CURRENT business requirements, and ask to see how they relate to its architecture. Yummy.
 - If someone who offers a Cool New Approach, sells books, speaks at paid conferences, or receives donations - think about it. I accept donations. Think.
 
 # Концепция
@@ -41,5 +42,6 @@ G-Code Driven Development
 - Если у Сlass только один метод — это мусор, используйте обычную функцию.
 - Используйте ручное тестирование там, где можно обойтись без автотестов.
 - ВСЕГДА вручную тестируйте представление. Настоящих проблем и регрессий автотесты здесь не найдут.
+- Когда Крутой Наставник По Архитектуре прийдет к вашему старому проекту, сообщите ему НАЧАЛЬНЫЕ бизнес-требования и попросите его набросать архитектуру. Купите попкорн. Затем покажите ТЕКУЩИЕ бизнес-требования и попросите посмотреть, как они соотносятся с его архитектурой. Мякотка.
 - Если кто-то предлагает Крутой Новый Подход, продает книги, выступает на платных конференциях, или получает пожертвования — задумайся об этом. Я принимаю донаты. Думай.
 - Если кто-то, педлагающий Новый Крутой Подход, продает платные консультации, то он хочет нагреть гоя. Я осуществляю платные консультарции, писать в Телеграм: @turborium.
