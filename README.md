@@ -48,3 +48,6 @@ G-Code Driven Development
 
 ## Критика
 - [Критика от ChatGPT](reviews/ChatGPT.md)
+
+## Проекты созданные с использованием методологии разработки GDD
+- [TurboPixel PWA PixelArt Camera](https://github.com/turborium/turbopixel)
