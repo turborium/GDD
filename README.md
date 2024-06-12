@@ -51,3 +51,7 @@ G-Code Driven Development
 
 ## Проекты созданные с использованием методологии разработки GDD
 - [TurboPixel PWA PixelArt Camera](https://github.com/turborium/turbopixel)
+- [Sorting Pixels](https://github.com/turborium/SortingPixels)
+- [Chaikins Algorithm Explorer](https://github.com/turborium/ChaikinsAlgorithmExplorer)
+- [Dither3](https://github.com/turborium/Dither3)
+- [Function Graph](https://github.com/turborium/FunctionGraph)
